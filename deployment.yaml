@@ -1,0 +1,3 @@
+model-name: demoaws
+experiment-path: /Users/piotr.majer@databricks.com/piotr_test
+cloud: AWS
